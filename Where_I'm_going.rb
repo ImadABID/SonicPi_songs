@@ -1,4 +1,3 @@
-
 use_synth :piano
 
 speed = 0.3
